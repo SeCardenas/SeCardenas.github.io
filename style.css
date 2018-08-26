@@ -66,7 +66,7 @@
 }
 
 .seccion {
-    padding-top: 15rem;
+    padding-top: 10rem;
     padding-bottom: 10rem;
 }
 
@@ -83,7 +83,8 @@ h1 {
 }
 
 .buttons-container {
-    padding-top: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
 }
 
 #skills .buttons-container i{
@@ -100,6 +101,8 @@ h1 {
 
 p {
     text-align: justify;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5rem;
 }
 
 h2 {
@@ -113,4 +116,8 @@ h2 {
 
 ul li a {
     cursor: pointer;
+}
+
+img {
+    height: 300px;
 }
